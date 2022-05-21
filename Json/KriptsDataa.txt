@@ -412,5 +412,18 @@
   "li4": "Facil de usar",
   "li5": "Actualizaciones constantes",
   "li6": "Gratis!"
+},{
+  "nombre": "Sonic Speed Simulator Unfair Hub",
+  "juegofecha": "Sonic Speed Simulator - 21/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/SonicSpeedSimulatorUnfairHub",
+  "mini": "https://cdn.discordapp.com/attachments/861312682489282600/977645824672694352/unknown.png",
+  "features": "Script para Sonic Speed Simulator",
+  "txt": "https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua",
+  "li1": "Obten otros scripts!",
+  "li2": ".",
+  "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
 }    ]
   }
