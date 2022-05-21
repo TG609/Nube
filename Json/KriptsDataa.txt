@@ -425,5 +425,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "."
+},{
+  "nombre": "Cheemsware",
+  "juegofecha": "Universal - 21/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Cheemsware",
+  "mini": "https://cdn.discordapp.com/attachments/853681321201238076/977648631249272902/unknown.png",
+  "features": "Diviertete usando este Fe Script!",
+  "txt": "https://nexo.notxeneon15.repl.co/cheemsware.lua",
+  "li1": ".",
+  "li2": ".",
+  "li3": ".",
+  "li4": ".",
+  "li5": "Unete al servidor de discord para poder usarlo! https://discord.com/invite/yW2xNBY6ry",
+  "li6": "Diviertete usandolo!"
 }    ]
   }
