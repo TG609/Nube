@@ -438,5 +438,18 @@
   "li4": ".",
   "li5": "Unete al servidor de discord para poder usarlo! https://discord.com/invite/yW2xNBY6ry",
   "li6": "Diviertete usandolo!"
+},{
+  "nombre": "Mad city GUI",
+  "juegofecha": "Mad City - 21/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/MadcityGUI",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977745524524449863/unknown.png",
+  "features": "El mejor script para autofarmear en Mad City!",
+  "txt": "XP Farm",
+  "li1": "Autorob",
+  "li2": "Teleports",
+  "li3": "Crashea el servidor",
+  "li4": "Nuevo",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
