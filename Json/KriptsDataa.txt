@@ -521,7 +521,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/SpyChat",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978330929128960060/unknown.png",
-  "features": "Espia el chat privado de los jugadores ðŸ¤­",
+  "features": "Espia el chat privado de los jugadores Ã°Å¸Â¤Â­",
   "txt": "https://cdn.y2k06.xyz/lua/SpyChat.lua",
   "li1": "Espia a los demas",
   "li2": ".",
@@ -534,7 +534,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/Caminaenlasparedes",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978331730937282601/unknown.png",
-  "features": "Camina en las paredes como una araña o_0",
+  "features": "Camina en las paredes como una araÃ±a o_0",
   "txt": "https://cdn.y2k06.xyz/lua/WalksOnWalls.lua",
   "li1": "Camina en las paredes",
   "li2": "Spiderman",
@@ -542,5 +542,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "."
+},{
+  "nombre": "Blox Burg Autofarm",
+  "juegofecha": "Blox Burg - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/BloxBurgAutofarm",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978430149706002442/unknown.png",
+  "features": "Autofarm para cualquier trabajo de Blox Burg!",
+  "txt": "https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub",
+  "li1": "Autofarm",
+  "li2": "Cocinero",
+  "li3": "Repartidor",
+  "li4": "Todos los trabajos!",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
