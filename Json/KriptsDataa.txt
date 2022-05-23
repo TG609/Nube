@@ -480,7 +480,7 @@
 },{
   "nombre": "Proxima Hub",
   "juegofecha": "Tower Of Hell - 23/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/ProximaHub",
+  "descarga": "https://tgxgang.xyz/scripts/towerofhellph",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978324103738048572/unknown.png",
   "features": "El mejor script para Tower Of Hell!",
   "txt": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
