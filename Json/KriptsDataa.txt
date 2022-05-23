@@ -484,11 +484,11 @@
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978324103738048572/unknown.png",
   "features": "El mejor script para Tower Of Hell!",
   "txt": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
-  "li1": "Gana el juego",
+  "li1": "Gana las partidas!",
   "li2": "Obten todas las armas",
   "li3": "Modo dios",
-  "li4": "Doble salto",
-  "li5": "Doble monedas",
-  "li6": "Gravedad, velocidad y mucho mas!"
+  "li4": "Doble monedas y salto",
+  "li5": "Gravedad",
+  "li6": "Velocidad y salto!"
 }    ]
   }
