@@ -480,7 +480,7 @@
 },{
   "nombre": "Proxima Hub",
   "juegofecha": "Tower Of Hell - 23/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/towerofhellph",
+  "descarga": "https://tgxgang.xyz/scripts/ProximaHub",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978324103738048572/unknown.png",
   "features": "El mejor script para Tower Of Hell!",
   "txt": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
@@ -490,5 +490,18 @@
   "li4": "Doble monedas y salto",
   "li5": "Gravedad",
   "li6": "Velocidad y salto!"
+},{
+  "nombre": "Autofarm y mas!",
+  "juegofecha": "BOOGA BOOGA - Classic - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Autofarmymas!",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978326835190431774/unknown.png",
+  "features": "Script de autofarm y mucho mas!",
+  "txt": "https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/loader",
+  "li1": "Autofarm",
+  "li2": "Autokill",
+  "li3": "Autoheal",
+  "li4": "ESP",
+  "li5": "Kill aura",
+  "li6": "Y mucho mas!"
 }    ]
   }
