@@ -516,5 +516,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "."
+},{
+  "nombre": "Telekinesis",
+  "juegofecha": "Universal - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Telekinesis",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978330079291670588/unknown.png",
+  "features": "Diviertete moviendo las cosas con telekinesis",
+  "txt": "https://cdn.y2k06.xyz/lua/Telekinesis.lua",
+  "li1": "Telekinesis",
+  "li2": "Divertido",
+  "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
 }    ]
   }
