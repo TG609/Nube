@@ -465,17 +465,17 @@
   "li5": "Floppa",
   "li6": "Floppa"
 },{
-  "nombre": "Proxima Hub",
-  "juegofecha": "Legends Of Speed  - 23/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/ProximaHub",
+  "nombre": "Legends Of Speed Proxima",
+  "juegofecha": "Legends Of Speed - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/LegendsOfSpeedProxima",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978184600000036904/unknown.png",
-  "features": "Autofarm, y muchas opciones mas para Legends Of Speed!",
+  "features": "Script para Legends Of Speed",
   "txt": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
-  "li1": "Hoop Farm",
-  "li2": "Level Farm",
-  "li3": "Gem Farm",
-  "li4": "Auto Rebirth",
-  "li5": "Auto Abrir Cofres",
-  "li6": "Teletransportate y mas!"
+  "li1": "Autofarm",
+  "li2": "Gem Farm",
+  "li3": "Auto rebirth",
+  "li4": "Teletransportate",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
