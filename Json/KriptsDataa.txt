@@ -503,5 +503,18 @@
   "li4": "ESP",
   "li5": "Kill aura",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Mad City - Bird Hub",
+  "juegofecha": "Mad City - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/MadCity-BirdHub",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978327817710346301/unknown.png",
+  "features": "Uno de los mejores scripts con autofarm!",
+  "txt": "https://raw.githubusercontent.com/TheWitch-BirdHub/BirdHubv0.1/main/load",
+  "li1": "Autofarm",
+  "li2": "Y otras cosas",
+  "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
 }    ]
   }
