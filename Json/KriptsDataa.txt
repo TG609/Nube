@@ -451,5 +451,18 @@
   "li4": "XP Farm",
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Sombrero de Floppa",
+  "juegofecha": "Universal - 23/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/SombrerodeFloppa",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978173895251206204/unknown.png",
+  "features": "Se un floppa!",
+  "txt": "https://cdn.y2k06.xyz/lua/SeFloppa.lua",
+  "li1": "Floppa",
+  "li2": "Floppa",
+  "li3": "Floppa",
+  "li4": "Floppa",
+  "li5": "Floppa",
+  "li6": "Floppa"
 }    ]
   }
