@@ -489,6 +489,6 @@
   "li3": "Modo dios",
   "li4": "Doble salto",
   "li5": "Doble monedas",
-  "li6": "Gravedad y velocidad!"
+  "li6": "Gravedad, velocidad y mucho mas!"
 }    ]
   }
