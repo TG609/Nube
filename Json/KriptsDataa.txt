@@ -521,7 +521,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/SpyChat",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978330929128960060/unknown.png",
-  "features": "Espia el chat privado de los jugadores Ã°Å¸Â¤Â­",
+  "features": "Espia el chat privado de los jugadores ",
   "txt": "https://cdn.y2k06.xyz/lua/SpyChat.lua",
   "li1": "Espia a los demas",
   "li2": ".",
