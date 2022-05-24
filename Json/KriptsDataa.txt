@@ -228,7 +228,7 @@
         "nombre": "Raise a Floppa Script",
         "juegofecha": "Raise A Floppa - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/RaiseaFloppaScript",
-        "mini": "https://scriptblox.com/images/script_9203864304-1652876488206.jpg",
+        "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978533874168627221/unknown.png",
         "features": "Autofarm para \"Raise a Floppa\"",
         "txt": "https://cdn.y2k06.xyz/lua/RaiseAFloppa.lua",
         "li1": "Autofarm",
