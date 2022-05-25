@@ -534,7 +534,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/Caminaenlasparedes",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978331730937282601/unknown.png",
-  "features": "Camina en las paredes como una araÃƒÆ’Ã‚Â±a o_0",
+  "features": "Camina en las paredes como una arana o_0",
   "txt": "https://cdn.y2k06.xyz/lua/WalksOnWalls.lua",
   "li1": "Camina en las paredes",
   "li2": "Spiderman",
@@ -554,19 +554,6 @@
   "li3": "Repartidor",
   "li4": "Todos los trabajos!",
   "li5": "Facil de usar",
-  "li6": "Y mucho mas!"
-},{
-  "nombre": "qwr",
-  "juegofecha": "rwqr - 25/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/qwr",
-  "mini": "",
-  "features": "",
-  "txt": "",
-  "li1": "",
-  "li2": "",
-  "li3": "",
-  "li4": "",
-  "li5": "",
   "li6": "Y mucho mas!"
 },{
   "nombre": "Autofarm - Pop It Simulator",
