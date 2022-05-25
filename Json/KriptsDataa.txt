@@ -556,19 +556,6 @@
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
 },{
-  "nombre": "qwr",
-  "juegofecha": "rwqr - 25/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/qwr",
-  "mini": "",
-  "features": "",
-  "txt": "",
-  "li1": "",
-  "li2": "",
-  "li3": "",
-  "li4": "",
-  "li5": "",
-  "li6": "Y mucho mas!"
-},{
   "nombre": "Autofarm McDonalds Tycoon",
   "juegofecha": "McDonalds Tycoon Original - 25/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/AutofarmMcDonaldsTycoon",
