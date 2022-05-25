@@ -534,7 +534,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/Caminaenlasparedes",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978331730937282601/unknown.png",
-  "features": "Camina en las paredes como una araÃ±a o_0",
+  "features": "Camina en las paredes como una araÃƒÆ’Ã‚Â±a o_0",
   "txt": "https://cdn.y2k06.xyz/lua/WalksOnWalls.lua",
   "li1": "Camina en las paredes",
   "li2": "Spiderman",
@@ -555,5 +555,31 @@
   "li4": "Todos los trabajos!",
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "qwr",
+  "juegofecha": "rwqr - 25/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/qwr",
+  "mini": "",
+  "features": "",
+  "txt": "",
+  "li1": "",
+  "li2": "",
+  "li3": "",
+  "li4": "",
+  "li5": "",
+  "li6": "Y mucho mas!"
+},{
+  "nombre": "Autofarm McDonalds Tycoon",
+  "juegofecha": "McDonalds Tycoon Original - 25/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/AutofarmMcDonaldsTycoon",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978915459753713664/unknown.png",
+  "features": "Recoje el dinero automaticamente!",
+  "txt": "https://cdn.y2k06.xyz/lua/McDonalds.lua",
+  "li1": "Recoje el dinero automaticamente!",
+  "li2": ".",
+  "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
 }    ]
   }
