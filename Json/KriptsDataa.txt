@@ -620,5 +620,18 @@
   "li4": "Facil de usar",
   "li5": "Cameralock",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Brookhaven - Arceus X",
+  "juegofecha": "Brookhaven - 27/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Brookhaven-ArceusX",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979815443122503751/unknown.png",
+  "features": "Troll, admin, gamepass gratis y mas1",
+  "txt": "https://cdn.y2k06.xyz/lua/BrookArceusx.lua",
+  "li1": "Trool",
+  "li2": "Admin",
+  "li3": "Pases gratis",
+  "li4": "Nuevo",
+  "li5": "Para movil",
+  "li6": "Y mucho mas!"
 }    ]
   }
