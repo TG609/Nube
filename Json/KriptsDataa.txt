@@ -607,5 +607,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Autofarm y mas - Blox Fruit",
+  "juegofecha": "Blox Fruits - 27/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Autofarmymas-BloxFruit",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979813415293952060/unknown.png",
+  "features": "Autofarm, auto buy y mucho mas!",
+  "txt": "https://raw.githubusercontent.com/1f0yt/community/master/hxllow",
+  "li1": "Autofarm",
+  "li2": "Auto buy",
+  "li3": "Facil de usar",
+  "li4": ".",
+  "li5": ".",
+  "li6": "Y mucho mas!"
 }    ]
   }
