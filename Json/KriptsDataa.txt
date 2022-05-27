@@ -534,7 +534,7 @@
   "juegofecha": "Universal - 23/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/Caminaenlasparedes",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978331730937282601/unknown.png",
-  "features": "Camina en las paredes como una araÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a o_0",
+  "features": "Camina en las paredes como una araÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a o_0",
   "txt": "https://cdn.y2k06.xyz/lua/WalksOnWalls.lua",
   "li1": "Camina en las paredes",
   "li2": "Spiderman",
@@ -591,6 +591,19 @@
   "li1": "Dinero infinitoo",
   "li2": ".",
   "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
+},{
+  "nombre": "Animaciones Clasicas - Roblox viejo",
+  "juegofecha": "Universal - 27/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/AnimacionesClasicas-Robloxviejo",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979811106019242034/unknown.png",
+  "features": "Script para tener las animaciones viejas de roblox!",
+  "txt": "https://cdn.y2k06.xyz/lua/FeClassicAnimations.lua",
+  "li1": "Animaciones clasicas de roblox",
+  "li2": "Solo para R6",
+  "li3": "Nostalgia",
   "li4": ".",
   "li5": ".",
   "li6": "."
