@@ -595,17 +595,17 @@
   "li5": ".",
   "li6": "."
 },{
-  "nombre": "Animaciones Clasicas - Roblox viejo",
-  "juegofecha": "Universal - 27/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/AnimacionesClasicas-Robloxviejo",
-  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979811106019242034/unknown.png",
-  "features": "Script para tener las animaciones viejas de roblox!",
-  "txt": "https://cdn.y2k06.xyz/lua/FeClassicAnimations.lua",
-  "li1": "Animaciones clasicas de roblox",
-  "li2": "Solo para R6",
-  "li3": "Nostalgia",
+  "nombre": "Swag Mode - Para Movil",
+  "juegofecha": "Da Hood - 27/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/SwagMode-ParaMovil",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979812220693270598/unknown.png",
+  "features": "Script de Da Hood para Arceus X!",
+  "txt": "https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002",
+  "li1": "Aimbot",
+  "li2": "Troll",
+  "li3": "Dinero",
   "li4": ".",
   "li5": ".",
-  "li6": "."
+  "li6": "Y mucho mas!"
 }    ]
   }
