@@ -582,17 +582,17 @@
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
 },{
-  "nombre": "TGX Hub",
-  "juegofecha": "Ninja Legends 2 - 27/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/TGXHub",
-  "mini": "https://cdn.discordapp.com/attachments/976820022779457566/979809938471805008/unknown.png",
-  "features": "Script para Ninja Legends 2!",
-  "txt": "https://raw.githubusercontent.com/verfired8975/ArchubV2/main/TgxHub.lua",
-  "li1": "Nuevo",
-  "li2": "Facil de usar",
-  "li3": "Autofarm",
+  "nombre": "Dar dinero y dinero infinito!",
+  "juegofecha": "Raise a sogga - 27/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Dardineroydineroinfinito!",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/979810546251616328/unknown.png",
+  "features": "Dinero infinito!",
+  "txt": "https://raw.githubusercontent.com/Relkss/Releases/main/raise%20a%20sogga.lua",
+  "li1": "Dinero infinitoo",
+  "li2": ".",
+  "li3": ".",
   "li4": ".",
   "li5": ".",
-  "li6": "Y mucho mas!"
+  "li6": "."
 }    ]
   }
