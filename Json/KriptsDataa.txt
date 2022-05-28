@@ -659,5 +659,18 @@
   "li4": "Auto Crates",
   "li5": "Teletransporte",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Mining Simulator GUI",
+  "juegofecha": "Mining Simulator 2 - 28/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/MiningSimulatorGUI",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/980124848074395739/unknown.png",
+  "features": "Script de autofarm y mas para Mining Simulator 2!",
+  "txt": "https://cdn.y2k06.xyz/lua/MS2.lua",
+  "li1": "Auto mine",
+  "li2": "Auto rebirth",
+  "li3": "Auto chest",
+  "li4": "Redeem codes",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
