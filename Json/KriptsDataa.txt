@@ -646,5 +646,18 @@
   "li4": ".",
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Autofarm y mas! - Mining Simulator 2",
+  "juegofecha": "Mining Simulator 2 - 28/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Autofarmymas!-MiningSimulator2",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/980105562459099166/unknown.png",
+  "features": "Autofarm, explosivos, auto eggs y mucho mas!",
+  "txt": "https://raw.githubusercontent.com/SunkenMuch/Soggyware/main/Main",
+  "li1": "Autofarm",
+  "li2": "Solo explosivos",
+  "li3": "Auto eggs",
+  "li4": "Auto Crates",
+  "li5": "Teletransporte",
+  "li6": "Y mucho mas!"
 }    ]
   }
