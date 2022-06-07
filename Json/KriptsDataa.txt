@@ -673,17 +673,17 @@
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
 },{
-  "nombre": "R15 Animaciones Gratis",
-  "juegofecha": "Universal - 7/6/2022",
-  "descarga": "https://tgxgang.xyz/scripts/R15AnimacionesGratis",
-  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/983760176467300372/unknown.png",
-  "features": "Usa las animaciones que gustes, gratis!",
-  "txt": "https://raw.githubusercontent.com/ShiroSeby/Seby-s-Lair/main/R15%20Animation%20Changer",
-  "li1": "Zombie animacion",
-  "li2": "Toy animacion",
-  "li3": "Facil de usar",
-  "li4": "Actualizado",
-  "li5": "Usa las animaciones que gustes!",
-  "li6": "Y mucho mas!"
+  "nombre": "KAT - Hit box, esp y mas!",
+  "juegofecha": "Kat - 7/6/2022",
+  "descarga": "https://tgxgang.xyz/scripts/KAT-Hitbox,espymas!",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/983761055245279272/unknown.png",
+  "features": "Hitbox, esp, anti afk para Kat!",
+  "txt": "https://raw.githubusercontent.com/Nadir3709/Whitelist/main/KeySystem3",
+  "li1": "Hitbox",
+  "li2": "Esp",
+  "li3": "Anti Afk",
+  "li4": "Rejoin",
+  "li5": "Y poco mas!",
+  "li6": "."
 }    ]
   }
