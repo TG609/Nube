@@ -672,5 +672,18 @@
   "li4": "Redeem codes",
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "R15 Animaciones Gratis",
+  "juegofecha": "Universal - 7/6/2022",
+  "descarga": "https://tgxgang.xyz/scripts/R15AnimacionesGratis",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/983760176467300372/unknown.png",
+  "features": "Usa las animaciones que gustes, gratis!",
+  "txt": "https://raw.githubusercontent.com/ShiroSeby/Seby-s-Lair/main/R15%20Animation%20Changer",
+  "li1": "Zombie animacion",
+  "li2": "Toy animacion",
+  "li3": "Facil de usar",
+  "li4": "Actualizado",
+  "li5": "Usa las animaciones que gustes!",
+  "li6": "Y mucho mas!"
 }    ]
   }
