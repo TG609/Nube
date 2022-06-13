@@ -698,5 +698,18 @@
   "li4": "Rejoin",
   "li5": "Y poco mas!",
   "li6": "."
+},{
+  "nombre": "Survival Natural Disaster  GUI",
+  "juegofecha": "Survival Natural Disaster - 12/6/2022",
+  "descarga": "https://tgxgang.xyz/scripts/SurvivalNaturalDisasterGUI",
+  "mini": "https://cdn.discordapp.com/attachments/862808487028064256/985761472355368980/unknown.png",
+  "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
+  "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
+  "li1": "Globo Gratis",
+  "li2": "No daño de caida",
+  "li3": "Gamepass Gratis",
+  "li4": "Teletransportate",
+  "li5": "Gana siempre!",
+  "li6": "Facil de usar y mucho mas!"
 }    ]
   }
