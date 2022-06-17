@@ -706,10 +706,23 @@
   "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
   "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
   "li1": "Globo Gratis",
-  "li2": "No daño de caida",
+  "li2": "No daÃ±o de caida",
   "li3": "Gamepass Gratis",
   "li4": "Teletransportate",
   "li5": "Gana siempre!",
   "li6": "Facil de usar y mucho mas!"
+},{
+  "nombre": "Responde automaticamente",
+  "juegofecha": "Guess the emoji - 17/6/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Respondeautomaticamente",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/987254061717917756/unknown.png",
+  "features": "Ejecutalo y ganaras todo el juego!",
+  "txt": "https://cdn.y2k06.xyz/lua/GuessTheEmojiAf.lu",
+  "li1": "Sencillo",
+  "li2": "Facil de usar",
+  "li3": "Ganaras todas las partidas!",
+  "li4": ".",
+  "li5": ".",
+  "li6": "Y mucho mas!"
 }    ]
   }
