@@ -706,7 +706,7 @@
   "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
   "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
   "li1": "Globo Gratis",
-  "li2": "No daÃ±o de caida",
+  "li2": "No daÃƒÂ±o de caida",
   "li3": "Gamepass Gratis",
   "li4": "Teletransportate",
   "li5": "Gana siempre!",
@@ -724,5 +724,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "FE Chat Hax V3",
+  "juegofecha": "Universal - 17/6/2022",
+  "descarga": "https://tgxgang.xyz/scripts/FEChatHaxV3",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/987258759934013490/unknown.png",
+  "features": "Trollea a la gente usando el chat!",
+  "txt": "https://cdn.y2k06.xyz/lua/FeChatHaxV3.lua",
+  "li1": "Trollea a los demas",
+  "li2": "Anonimo",
+  "li3": "Diviertete",
+  "li4": ".",
+  "li5": ".",
+  "li6": "SI las personas ven tu burbuja de chat, seguro te descubren jajaaj"
 }    ]
   }
