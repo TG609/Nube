@@ -706,7 +706,7 @@
   "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
   "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
   "li1": "Globo Gratis",
-  "li2": "No daÃƒÂ±o de caida",
+  "li2": "No daÃƒÆ’Ã‚Â±o de caida",
   "li3": "Gamepass Gratis",
   "li4": "Teletransportate",
   "li5": "Gana siempre!",
@@ -737,5 +737,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "SI las personas ven tu burbuja de chat, seguro te descubren jajaaj"
+},{
+  "nombre": "Prison Ware",
+  "juegofecha": "Prison Life - 1/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Prison-Ware",
+  "mini": "https://cdn.discordapp.com/attachments/879493179567665193/992505196162863244/unknown.png",
+  "features": "Balas infinitas, vida infinita, velocidad, modo dios y mas!",
+  "txt": "https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt",
+  "li1": "Kill All",
+  "li2": "Walkspeed",
+  "li3": "Kill aura",
+  "li4": "Give guns",
+  "li5": "Teleport",
+  "li6": "Y mucho mas!"
 }    ]
   }
