@@ -706,7 +706,7 @@
   "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
   "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
   "li1": "Globo Gratis",
-  "li2": "No daÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o de caida",
+  "li2": "No daÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±o de caida",
   "li3": "Gamepass Gratis",
   "li4": "Teletransportate",
   "li5": "Gana siempre!",
@@ -762,6 +762,19 @@
   "li3": "Kill aura",
   "li4": "Auto Kill",
   "li5": "God mode",
+  "li6": "Y mucho mas!"
+},{
+  "nombre": "The Rake (Noob edicion)",
+  "juegofecha": "The Rake - 1/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/The-Rake-(Noob-edicion)",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/992656872089858108/unknown.png",
+  "features": "Script con muchas opciones para The Rake",
+  "txt": "https://cdn.y2k06.xyz/lua/The%20rake%20(Noob).lua",
+  "li1": "Ilumina el mapa",
+  "li2": "Remueve los limites",
+  "li3": "Teletransportate",
+  "li4": "Espia al monstruo",
+  "li5": "Mira a las personas",
   "li6": "Y mucho mas!"
 }    ]
   }
