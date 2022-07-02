@@ -706,7 +706,7 @@
   "features": "Script para Natural Disaster, sirve para PC y ArceusX!",
   "txt": "https://raw.githubusercontent.com/Bac0nh1ck/Scripts/main/NDS_A%5EX",
   "li1": "Globo Gratis",
-  "li2": "No daÃƒÆ’Ã‚Â±o de caida",
+  "li2": "No daÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o de caida",
   "li3": "Gamepass Gratis",
   "li4": "Teletransportate",
   "li5": "Gana siempre!",
@@ -749,6 +749,19 @@
   "li3": "Kill aura",
   "li4": "Give guns",
   "li5": "Teleport",
+  "li6": "Y mucho mas!"
+},{
+  "nombre": "Cypher Hub",
+  "juegofecha": "Sharkbite - 1/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Cypher-Hub",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/992654612119175189/unknown.png",
+  "features": "Script con muchas opciones para Sharkbite",
+  "txt": "https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/SharkBite.lua",
+  "li1": "Autofarm",
+  "li2": "Farmea dientes",
+  "li3": "Kill aura",
+  "li4": "Auto Kill",
+  "li5": "God mode",
   "li6": "Y mucho mas!"
 }    ]
   }
