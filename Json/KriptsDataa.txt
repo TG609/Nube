@@ -803,17 +803,17 @@
   "li5": ".",
   "li6": "."
 },{
-  "nombre": "Un Chat Bypass",
-  "juegofecha": "Universal - 4/7/2022",
-  "descarga": "https://tgxgang.xyz/scripts/Un-Chat-Bypass",
-  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/993722013820670113/unknown.png",
-  "features": "Di groserias sin que roblox censure tu chat!",
-  "txt": "https://the-shed.dev/scripts/sbp.lua",
-  "li1": ".",
-  "li2": ".",
-  "li3": ".",
+  "nombre": "Apeirophobia GUI",
+  "juegofecha": "Apeirophobia - 4/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Apeirophobia-GUI",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/993722446576357417/unknown.png",
+  "features": "Teletransportate a la salida, espia al monstruo y mas!",
+  "txt": "https://raw.githubusercontent.com/XCD7/x/main/x",
+  "li1": "Espia al monstruo",
+  "li2": "Teletransportate a la salida",
+  "li3": "Y poco mas!",
   "li4": ".",
   "li5": ".",
-  "li6": "Modo diablo kaka"
+  "li6": "."
 }    ]
   }
