@@ -803,17 +803,17 @@
   "li5": ".",
   "li6": "."
 },{
-  "nombre": "Aumenta FPS",
+  "nombre": "Un Chat Bypass",
   "juegofecha": "Universal - 4/7/2022",
-  "descarga": "https://tgxgang.xyz/scripts/Aumenta-FPS",
-  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/993721306421927936/unknown.png",
-  "features": "Reduce el lag!",
-  "txt": "https://cdn.y2k06.xyz/lua/FPSBooster.lua",
+  "descarga": "https://tgxgang.xyz/scripts/Un-Chat-Bypass",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/993722013820670113/unknown.png",
+  "features": "Di groserias sin que roblox censure tu chat!",
+  "txt": "https://the-shed.dev/scripts/sbp.lua",
   "li1": ".",
   "li2": ".",
   "li3": ".",
   "li4": ".",
   "li5": ".",
-  "li6": "Reduce tu lag!"
+  "li6": "Modo diablo kaka"
 }    ]
   }
