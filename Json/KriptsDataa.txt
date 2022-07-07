@@ -842,17 +842,17 @@
   "li5": ".",
   "li6": "."
 },{
-  "nombre": "Weinz Loader",
-  "juegofecha": "Jailbreak - 7/7/2022",
-  "descarga": "https://tgxgang.xyz/scripts/Weinz-Loader",
-  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/994672110171594913/unknown.png",
-  "features": "Script para jailbreak con un monton de utilidades!",
-  "txt": "https://raw.githubusercontent.com/weiny-ez/w-main/main/jailbreak.lua",
-  "li1": "Autorob",
-  "li2": "Armas",
-  "li3": "Teletransportate",
-  "li4": "FE",
-  "li5": "Player",
+  "nombre": "Ewyzu Loader",
+  "juegofecha": "Your Bizzare Adventure - 7/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Ewyzu-Loader",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/994672728386834522/unknown.png",
+  "features": "Skills Infinitos sin cooldwon y mucho mas!",
+  "txt": "https://raw.githubusercontent.com/ewyzu/ewyzu-loader/main/main-ewyzuloader",
+  "li1": "Walkspeed",
+  "li2": "Autofarm",
+  "li3": "Stand",
+  "li4": "Mundos",
+  "li5": "PVP",
   "li6": "Y mucho mas!"
 }    ]
   }
