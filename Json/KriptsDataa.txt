@@ -919,5 +919,18 @@
   "li4": "Kill all",
   "li5": "Troll",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "Jailmonkey",
+  "juegofecha": "Jailbreak - 17/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Jailmonkey",
+  "mini": "https://robloxscripts.com/wp-content/uploads/2022/03/Png-65-300x169.png",
+  "features": "Autorob para Jailbreak",
+  "txt": "https://cdn.y2k06.xyz/lua/JailMonkey.lua",
+  "li1": ".",
+  "li2": ".",
+  "li3": ".",
+  "li4": ".",
+  "li5": ".",
+  "li6": "."
 }    ]
   }
