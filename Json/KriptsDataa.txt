@@ -906,5 +906,18 @@
   "li4": ".",
   "li5": ".",
   "li6": "."
+},{
+  "nombre": "Eclipse Hub MM2",
+  "juegofecha": "Murder Mistery 2 - 17/7/2022",
+  "descarga": "https://tgxgang.xyz/scripts/Eclipse-Hub-MM2",
+  "mini": "https://robloxscripts.com/wp-content/uploads/2022/04/CLa6B4q.png",
+  "features": "Autorfarm y muchas opciones mas para mm2!",
+  "txt": "https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script",
+  "li1": "Autofarm",
+  "li2": "XP Farm",
+  "li3": "Coin Farm",
+  "li4": "Kill all",
+  "li5": "Troll",
+  "li6": "Y mucho mas!"
 }    ]
   }
